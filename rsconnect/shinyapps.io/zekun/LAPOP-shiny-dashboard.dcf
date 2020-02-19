@@ -1,0 +1,12 @@
+name: LAPOP-shiny-dashboard
+title: LAPOP-shiny-dashboard
+username:
+account: zekun
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1836319
+bundleId: 2813356
+url: https://zekun.shinyapps.io/LAPOP-shiny-dashboard/
+when: 1582150436.90469
+asMultiple: FALSE
+asStatic: FALSE
