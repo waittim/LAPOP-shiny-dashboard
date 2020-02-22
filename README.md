@@ -1,5 +1,7 @@
 # LAPOP-shiny-dashboard
 
+**[Click here to open the dashboard](https://zekun.shinyapps.io/LAPOP-shiny-dashboard/)**
+
 LAPOP dashboard with fake data based on Shiny R.
 
 This project is designed for LAPOP, a data visualization dashboard for non-professional users.
@@ -12,6 +14,5 @@ Due to copyright issues and confidentiality agreements, the dashboard shown uses
 2. Select the topics and questions you want to analyze in detail, and obtain key numerical and visualization results and time series visualization images for a single problem.
 3. Select topics and questions for cross-analysis to get visual results of cross-analysis.
 
-![lapop-dashboard-home.png](https://i.postimg.cc/TwmPDrYT/lapop-dashboard-home.png)
+![lapop-dashboard-home.png](https://github.com/waittim/LAPOP-shiny-dashboard/blob/master/introduction/demo-home.png)
 
-**[Click here to open dashboard](https://zekun.shinyapps.io/LAPOP-shiny-dashboard/)**
