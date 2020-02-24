@@ -5,8 +5,8 @@ account: zekun
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 1836319
-bundleId: 2815494
+bundleId: 2826174
 url: https://zekun.shinyapps.io/LAPOP-shiny-dashboard/
-when: 1582218930.72597
+when: 1582585127.9378
 asMultiple: FALSE
 asStatic: FALSE
