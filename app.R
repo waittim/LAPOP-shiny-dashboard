@@ -243,7 +243,7 @@ theme_lapop <- shinyDashboardThemeDIY(
         ,colorEndPos = 100
     )
     ,sidebarTabTextColorSelected = "rgb(255,255,255)"
-    ,sidebarTabRadiusSelected = "0px 20px 20px 0px"
+    ,sidebarTabRadiusSelected = "5px 5px 5px 5px"
     
     ,sidebarTabBackColorHover = cssGradientThreeColors(
         direction = "right"
@@ -258,7 +258,7 @@ theme_lapop <- shinyDashboardThemeDIY(
     ,sidebarTabBorderStyleHover = "none none solid none"
     ,sidebarTabBorderColorHover = "rgb(75,126,151)"
     ,sidebarTabBorderWidthHover = 1
-    ,sidebarTabRadiusHover = "0px 20px 20px 0px"
+    ,sidebarTabRadiusHover = "5px 5px 5px 5px"
     
     ### boxes
     ,boxBackColor = "rgb(255,255,255)"
@@ -366,6 +366,7 @@ body <- dashboardBody(
                 ),
                 fluidRow(
                     box(title = "Question Introduction:", 
+                        "There is an introduction about the topic and the question selected before, which we do not have the information yet.",
                         solidHeader = TRUE, 
                         collapsible = TRUE)
                 ),
@@ -421,6 +422,7 @@ body <- dashboardBody(
                                     multiple = FALSE),
                         uiOutput("cross_select")),
                     box(title = "Introduction", 
+                        "There is an introduction about the topic and the question selected for cross analysis, which we do not have the information yet.",
                         solidHeader = TRUE, 
                         collapsible = TRUE)
                 ),
