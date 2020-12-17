@@ -1,18 +1,17 @@
 # LAPOP-shiny-dashboard
 
-**[Click here to open the dashboard](https://zekun.shinyapps.io/LAPOP-shiny-dashboard/)**
+This project is designed a data visualization dashboard to help non-professional users for Latin American Public Opinion Project (LAPOP).
 
-LAPOP dashboard with fake data based on Shiny R.
+Due to copyright issues and confidentiality agreements, the dashboard shown with randomly generated data based on real data formats.
 
-This project is designed for LAPOP, a data visualization dashboard for non-professional users.
-
-Due to copyright issues and confidentiality agreements, the dashboard shown uses randomly generated data based on real data formats. Therefore, the data content has no meaning.
-
-**User process:**
+**How to use it?**
 
 1. Select the country and year you want to analyze (multiple choices) to obtain key figures and visualizations of the overall situation of the interviewee.
-2. Select the topics and questions you want to analyze in detail, and obtain key numerical and visualization results and time series visualization images for a single problem.
+2. Select the topics and questions you want to analyze in detail, and obtain key figures and visualization results and time series visualization images for a single problem.
 3. Select topics and questions for cross-analysis to get visual results of cross-analysis.
 
-![demo-home.png](https://github.com/waittim/LAPOP-shiny-dashboard/blob/master/introduction/demo-home.png)
+![demo-home.png](https://github.com/waittim/waittim.github.io/raw/master/img/lapop-dashboard.png)
 
+**[Click here to open the dashboard](https://zekun.shinyapps.io/LAPOP-shiny-dashboard/)**
+
+Project GitHub page: [LAPOP-shiny-dashboard](https://github.com/waittim/LAPOP-shiny-dashboard)
