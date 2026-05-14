@@ -6,7 +6,7 @@ Due to copyright issues and confidentiality agreements, the dashboard shown with
 
 **[Click here to open the dashboard](https://zekun.shinyapps.io/LAPOP-shiny-dashboard/)**
 
-![demo-home.png](https://github.com/waittim/waittim.github.io/raw/master/img/lapop-dashboard.png)
+![demo-home.png](https://www.zekun.blog/img/posts/2020-02-19-lapop-dashboard/lapop-dashboard.png)
 
 
 ## How to use it?
